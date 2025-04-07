@@ -1,12 +1,29 @@
 def CNCA()
-  puts "Welcome to Cinco Noches con Alfredo!"
-  puts "Choose your character:"
-  puts "Carlos or Valentina"
+  lines = File.readlines("totalscript.txt")
+
+  start_line = 2
+  end_line = 4
+
+  # jag subtraherar  1 från "star_line" för att få mer användarvänlig kod. Alltså så att index skall stämma överens med siffran i min totalscript txt
+  paragraph = lines[(start_line - 1)..(end_line - 1)]
+  #.join konkatinerar strängarna i paragraph
+  puts paragraph.join
+
   if gets.chomp == "Carlos"
   elsif gets.chomp == "Valentina"
-  end 
-  puts "It was a late December night. You were sitting alone at the bar, nursing a drink, when a plump, comforting man approached. Drunk and in need of solace, you agreed to follow him. During your conversation, he introduced himself as Alfredo—the owner of Hotel de Español, a nearby establishment. With a storm raging outside, Alfredo kindly offers shelter instead of letting you face the cold, wet night. You accept and follow him to his hotel."
+  end #Tyckte det kändes kul att an kan välja karaktär och att det sedan inte gör någon skillnad:)
   
+  line_number = 7  #läser upp rad 7 i totalscript.txt
+  puts lines[line_number - 1]
+  
+  start_line = 11
+  end_line = 17
+
+  paragraph = lines[(start_line - 1)..(end_line - 1)]
+  puts paragraph.join
+
+  if gets.chomp == wait
+    
 end 
 
 CNCA()
