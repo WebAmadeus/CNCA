@@ -23,7 +23,7 @@ def CNCA()
   puts paragraph.join
 
   if gets.chomp == wait
-    
+    mamma mia
 end 
 
 CNCA()
