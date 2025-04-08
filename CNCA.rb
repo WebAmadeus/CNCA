@@ -16,7 +16,7 @@ end
 def Scriptcall (start_line, end_line)
   lines = File.readlines("totalscript.txt")
 
-    # jag subtraherar  1 från "star_line" för att få mer användarvänlig kod. Alltså så att index skall stämma överens med siffran i min totalscript txt
+    # jag subtraherar 1 från "start_line" för att få mer användarvänlig kod. Alltså så att index skall stämma överens med siffran i min totalscript txt
    paragraph = lines[(start_line - 1)..(end_line - 1)]
    #.join konkatinerar strängarna i paragraph
     return paragraph.join
