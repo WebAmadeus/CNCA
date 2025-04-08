@@ -10,11 +10,9 @@ NIGHT 1 – ARRIVAL
 Scene 1: The Hotel Entrance
 You arrive at the hotel. Alfredo asks you to wait for just a moment while he fetches the keys. Outside, the wind howls and the rain intensifies.
 
-Choice 1:
-Wait: You decide to remain where you are.
-
-
-Explore: You wander around the lobby and adjacent corridors.
+What do you want to do? Wait or Explore
+You decide to remain where you are.   
+You wander around the lobby and adjacent corridors.
 
 
 

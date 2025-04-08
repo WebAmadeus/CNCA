@@ -2,10 +2,10 @@ def CNCA()
   lines = File.readlines("totalscript.txt")
 
 
-  puts Scriptcall(2,4)
+  puts typer(Scriptcall(2,4))
   Choice("Carlos", "Valentina") #Tyckte det kändes kul att an kan välja karaktär och att det sedan inte gör någon skillnad:)
-  puts Scriptcall(7,8)
-  puts Scriptcall(11, 17)
+  puts typer(Scriptcall(7,8))
+  puts typer(Scriptcall(11, 13))
   Choice("Wait","Explore")
 end 
 
@@ -29,6 +29,17 @@ def Choice(choice1,choice2)
   elsif gets.chomp.to_s == choice2
       
   end
+end
+
+def typer (text)
+i = 0
+while i < text.length
+  print text[i]
+  sleep(0.03)
+  $stdout.flush #jag frågade chatgpt om hur man kan få textan att se ut att bli skriven i terminalen och den sa att denna skulle vara med för att den skulle komma en bokstav i taget, annars kan det klumpas ihop av ruby för effektivitet
+  i += 1
+end
+
 end
 
 CNCA()
