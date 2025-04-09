@@ -3,13 +3,13 @@ def CNCA()
 
    "NIGHT 1"
   puts Typer(Scriptcall(2,4))
-  Choice("carlos", "valentina")#Tyckte det kändes kul att an kan välja karaktär och att det sedan inte gör någon skillnad:)
+  Choice("carlos","valentina")#Tyckte det kändes kul att an kan välja karaktär och att det sedan inte gör någon skillnad:)
   puts Typer(Scriptcall(7,8))
   puts Typer(Scriptcall(11, 13))
   Storysplit(1,"wait","explore",14,15,16,17)
   Scriptsplit(1, 20, 21, 25, 30)
   puts Typer(Scriptcall(33, 35))
-  Storysplit(2,"leave", "trust", 39,40,43,44)
+  Storysplit(2,"leave","trust", 39,40,43,44)
   
   
 end 
