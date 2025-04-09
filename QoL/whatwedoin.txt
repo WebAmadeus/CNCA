@@ -4,8 +4,8 @@ börja med choices och responses för night 2
 börja med choices och respnses för night 3
 - ^^ - night 4
 - ^^ - night 5
-göra alla till egna funktioner lära amadeus hur allt funkar
-!! kanske ska änsra så att splitpoint och A eller B sparas i arrayen så det kan trackas lättare vilket val man gjort.
+göra alla till egna funktioner 
+lära amadeus hur allt funkar
 om några fler funktioner behövs lägg till deras namn i listan och en kor beskrivning av inputs/outputs
 
 
