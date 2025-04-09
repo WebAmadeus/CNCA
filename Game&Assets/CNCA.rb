@@ -11,6 +11,11 @@ def CNCA()
   puts Typer(Scriptcall(33, 35))
   Storysplit(2,"leave","trust", 39,40,43,44)
   Scriptsplit(2, 49, 50, 45, 46)
+  if $choicesmade[1] == "2A"
+    puts Typer(Scriptcall(51, 52))
+    Storysplit(3,"leave","stay", 56,57,61,62)
+  end
+
   
   
 end 

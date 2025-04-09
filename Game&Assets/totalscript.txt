@@ -48,15 +48,17 @@ Branch 2A: Try to Leave
 
 Alfredo smiles kindly and replies, “Oh, that’s perfectly fine. You can simply go back the way we came.” You step out into the corridor, the storm still raging.
 
+The howling wind seems to urge you to stay are you sure you want to leave? or have you changed you changed your mind and want to stay?
+
 Choice 3:
 (3A) Leave for Good:
 
- You head straight for the front door.
+ You head out into the storm
 
 
 (3B) Change Your Mind: 
 
-You decide to return to the room and reconsider.
+Unable to brave the storm you retun inside
 
 Outcome 3A:
  You make your way to the front door. Once outside, the rain beats down mercilessly. Moments later, you hear a rustling in the bushes. A dark, ominous figure appears.
