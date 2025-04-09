@@ -7,9 +7,8 @@ def CNCA()
   puts Typer(Scriptcall(7,8))
   puts Typer(Scriptcall(11, 13))
   Storysplit(1,"wait","explore",14,15,16,17)
-  Scriptsplit(1, 20, 21, 34, 38)
-  puts Typer(Scriptcall(42, 43))
-  puts Typer(Scriptcall(44, 45))
+  Scriptsplit(1, 20, 21, 25, 30)
+  puts Typer(Scriptcall(33, 35))
   Storysplit(2,"leave", "trust", 39,40,43,44)
   
   
