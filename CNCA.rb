@@ -45,29 +45,29 @@ def Typer (text)
   i = 0
   while i < text.length
    print text[i]
-   sleep(0.023)
+   sleep(0.01) #justerar hastigheten på texten som skrivs ut
    $stdout.flush #jag frågade chatgpt om hur man kan få textan att se ut att bli skriven i terminalen och den sa att denna skulle vara med för att den skulle komma en bokstav i taget, annars kan det klumpas ihop av ruby för effektivitet
     i += 1
   end
   
 end
 
-def Storysplit (splitpoint, choice1,choice2,start_line1, end_line1, start_line2, end_line2 )
-  if Choice(choice1,choice2) == 1
-     puts Typer(Scriptcall(start_line1,end_line1))
-     $choicesmade << "A"
+def Storysplit (splitpoint, choice1, choice2, start_line1, end_line1, start_line2, end_line2)
+  if Choice(choice1, choice2) == 1
+    puts Typer(Scriptcall(start_line1, end_line1))
+    $choicesmade << "#{splitpoint}A"
   else
-     puts Typer(Scriptcall(start_line2,end_line2))
-     $choicesmade << "B"
+    puts Typer(Scriptcall(start_line2, end_line2))
+    $choicesmade << "#{splitpoint}B"
   end
   return
 end
 
 def Scriptsplit(splitpoint, start_line1, end_line1, start_line2, end_line2)
  
-  if $choicesmade[splitpoint - 1] == "A"
+  if $choicesmade[splitpoint - 2] == "A"
     puts Typer(Scriptcall(start_line1, end_line1))
-  elsif $choicesmade[splitpoint - 1] == "B"
+  elsif $choicesmade[splitpoint - 2] == "B"
     puts Typer(Scriptcall(start_line2, end_line2))
   end
 end
