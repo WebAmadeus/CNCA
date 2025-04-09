@@ -1,6 +1,5 @@
 $choicesmade = [] #global variabel för att hålla koll på val som gjorts i spelet
 def CNCA()
-  lines = File.readlines("totalscript.txt")
 
    "NIGHT 1"
   puts Typer(Scriptcall(2,4))
@@ -11,7 +10,7 @@ def CNCA()
   Scriptsplit(1, 20, 21, 34, 38)
   puts Typer(Scriptcall(42, 43))
   puts Typer(Scriptcall(44, 45))
-  Storysplit(2,"try to leave", "trust alfredo", 39,40,43,44)
+  Storysplit(2,"leave", "trust", 39,40,43,44)
   
   
 end 
@@ -29,14 +28,18 @@ def Scriptcall (start_line, end_line)
 
 end
 
-def Choice(choice1,choice2)
+def Choice(choice1, choice2)
   print "> "
-  if gets.chomp.to_s.downcase == choice1.downcase
-      chosen = 1
+  input = gets.chomp.to_s.downcase
+  if input.include?(choice1.downcase)
+    chosen = 1
+  elsif input.include?(choice2.downcase)
+    chosen = 0
   else
-     chosen = 0
+    puts "Invalid choice. Please try again."
+    return Choice(choice1, choice2) # Recursively ask for input again
   end
-return chosen
+  return chosen
 end
 
 def Typer (text)
