@@ -13,6 +13,7 @@ def CNCA()
   puts Typer(Scriptcall(44, 45))
   Storysplit(2,"try to leave", "trust alfredo", 25,26,30,31)
   
+  
 end 
 
 
@@ -42,7 +43,7 @@ def Typer (text)
   i = 0
   while i < text.length
    print text[i]
-   sleep(0.01)
+   sleep(0.023)
    $stdout.flush #jag frågade chatgpt om hur man kan få textan att se ut att bli skriven i terminalen och den sa att denna skulle vara med för att den skulle komma en bokstav i taget, annars kan det klumpas ihop av ruby för effektivitet
     i += 1
   end
