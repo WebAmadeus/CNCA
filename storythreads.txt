@@ -1,0 +1,142 @@
+STORY STRUCTURE: CINCO NOCHES CON ALFREDO
+
+INTRODUCTION:
+- Welcome to Cinco Noches con Alfredo!
+- Choose your character: Carlos or Valentina (Cosmetic choice, no impact on story).
+
+BACKSTORY:
+- Alfredo offers you shelter at his hotel during a storm.
+
+NIGHT 1 – ARRIVAL:
+Scene 1: The Hotel Entrance
+- Alfredo asks you to wait while he fetches the keys.
+- CHOICE 1: Wait or Explore
+  - Branch 1A: WAIT
+    - Alfredo returns with keys and leads you to Room 213.
+    - Room is unsettlingly empty except for a single bed.
+    - CHOICE 2: Try to Leave or Trust Alfredo
+      - (2A) TRY TO LEAVE:
+        - Alfredo smiles and lets you leave.
+        - You step into the storm.
+        - CHOICE 3: Leave for Good or Change Your Mind
+          - (3A) LEAVE FOR GOOD:
+            - You encounter a dark figure in the storm.
+            - CHOICE 4: Run Back into the Hotel or Run Away into the Storm
+              - (4A) RUN BACK INTO THE HOTEL:
+                - You return to the hotel and see Alfredo acting strangely.
+                - → Transition to Night 2.
+              - (4B) RUN AWAY INTO THE STORM:
+                - You are caught by unseen hands and die.
+                - → Cycle resets with subtle changes.
+          - (3B) CHANGE YOUR MIND:
+            - You return to the room and reconsider.
+            - → Transition to Night 2.
+      - (2B) TRUST ALFREDO:
+        - You stay in the room, which transforms mysteriously.
+        - CHOICE 5: Run Back, Explore the Room, or Go to Sleep
+          - (5A) RUN BACK:
+            - You flee to the lobby and see Alfredo cooking.
+            - → Transition to Night 2.
+          - (5B) EXPLORE THE ROOM:
+            - You find a note: "Don’t leave; the night binds you here."
+            - → Transition to Night 2.
+          - (5C) GO TO SLEEP:
+            - You drift into an uneasy sleep.
+            - → Transition to Night 2.
+
+  - Branch 1B: EXPLORE
+    - You wander the hotel and find:
+      - A shifting painting that changes from serene to stormy.
+      - A dusty guestbook with Alfredo’s name dated decades ago.
+    - Alfredo calls you back to the lobby.
+    - CHOICE 2: Try to Leave or Trust Alfredo (same as Branch 1A).
+
+NIGHT 2 – MORNING MYSTERIES:
+Scene 2.1: The Morning Encounter
+- You notice strange stains and smears in the lobby.
+- Alfredo invites you to breakfast.
+- CHOICE 2.1: Accept Breakfast or Explore Alone
+  - (2.1A) ACCEPT BREAKFAST:
+    - Alfredo hints at the hotel’s secrets.
+    - You notice a locked door behind him.
+    - CHOICE 2.1A: Ask About the Locked Door or Stay Silent
+      - (2.1A1) ASK ABOUT THE LOCKED DOOR:
+        - Alfredo deflects your question.
+        - You hear muffled cries later in the corridor.
+        - → Transition to Night 3.
+      - (2.1A2) STAY SILENT:
+        - You hear whispers from the locked door.
+        - → Transition to Night 3.
+  - (2.1B) EXPLORE ALONE:
+    - You find faded symbols and dried blood in the corridors.
+    - Discover a room with old photographs and clippings about missing guests.
+    - CHOICE 2.1B: Gather Evidence or Push Deeper
+      - (2.1B1) GATHER EVIDENCE:
+        - You collect clippings and return to your room.
+        - → Transition to Night 3.
+      - (2.1B2) PUSH DEEPER:
+        - You find a blood-smeared mirror and see a shadowy figure.
+        - → Transition to Night 3.
+
+NIGHT 3 – THE MASK SLIPS:
+Scene 3.1: The Dinner Invitation
+- Alfredo invites you to dinner.
+- CHOICE 3.1: Accept Dinner or Attempt Escape
+  - (3.1A) ACCEPT DINNER:
+    - Alfredo’s behavior becomes possessive.
+    - You notice a red smear on his wine glass.
+    - CHOICE 3.1A: Confront Alfredo or Stay Silent
+      - (3.1A1) CONFRONT ALFREDO:
+        - Alfredo deflects your question.
+        - You hear screams later in the night.
+        - → Transition to Night 4.
+      - (3.1A2) STAY SILENT:
+        - You find a hidden journal documenting disappearances.
+        - → Transition to Night 4.
+  - (3.1B) ATTEMPT ESCAPE:
+    - You try to leave but are disoriented by the storm.
+    - You awaken back in your room, injured.
+    - → Transition to Night 4.
+
+NIGHT 4 – THE SHIFTING MAZE:
+Scene 4.1: The Invitation to the Private Parlor
+- Alfredo invites you to a private parlor.
+- CHOICE 4.1: Follow Alfredo or Explore Alone
+  - (4.1A) FOLLOW ALFREDO:
+    - You see eerie artifacts and a photo of Alfredo with marked faces.
+    - CHOICE 4.1A: Question the Photo or Excuse Yourself
+      - (4.1A1) QUESTION THE PHOTO:
+        - Alfredo gives a cryptic response.
+        - → Transition to Night 5.
+      - (4.1A2) EXCUSE YOURSELF:
+        - You find a diary documenting Alfredo’s madness.
+        - → Transition to Night 5.
+  - (4.1B) EXPLORE ALONE:
+    - The corridors twist unpredictably.
+    - You find a note: "You can’t leave what is yours."
+    - → Transition to Night 5.
+
+NIGHT 5 – THE FINAL STRUGGLE:
+Scene 5.1: The Last Stand
+- Alfredo confronts you, declaring his obsession.
+- CHOICE 5.1: Confront Alfredo or Attempt Escape
+  - (5.1A) CONFRONT ALFREDO:
+    - You struggle with Alfredo and find a hidden switch.
+    - CHOICE 5.1A: Activate the Switch or Fail
+      - (5.1A1) ACTIVATE THE SWITCH:
+        - The hotel’s traps stop briefly, and you escape.
+        - → Cycle resets with a clue for future escape.
+      - (5.1A2) FAIL:
+        - Alfredo overpowers you, and you die.
+        - → Cycle resets with harsher conditions.
+  - (5.1B) ATTEMPT ESCAPE:
+    - You navigate a blood-soaked corridor.
+    - CHOICE 5.1B: Rush Through or Wait
+      - (5.1B1) RUSH THROUGH:
+        - Alfredo stops you, and you die.
+        - → Cycle resets with remnants of your escape effort.
+      - (5.1B2) WAIT:
+        - You find a hidden exit and slip into the storm.
+        - → Cycle resets, leaving hope for true freedom.
+
+END OF STORY STRUCTURE
