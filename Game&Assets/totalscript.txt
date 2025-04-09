@@ -40,15 +40,23 @@ Do you want to try to leave or trust Alfredo?
 
 (2B) Trust Alfredo: 
 
-You decide to settle in and wait until morning.
+You decide to settle in and wait until morning. 
+
+Sleep doesnt come easy as you toss and turn for most of the night still with an uneasy feeling in your chest. Eventually you fall asleep and darkness consumes you.
 
 Branch 2A: Try to Leave
+
 Alfredo smiles kindly and replies, “Oh, that’s perfectly fine. You can simply go back the way we came.” You step out into the corridor, the storm still raging.
+
 Choice 3:
-(3A) Leave for Good: You head straight for the front door.
+(3A) Leave for Good:
+
+ You head straight for the front door.
 
 
-(3B) Change Your Mind: You decide to return to the room and reconsider.
+(3B) Change Your Mind: 
+
+You decide to return to the room and reconsider.
 
 Outcome 3A:
  You make your way to the front door. Once outside, the rain beats down mercilessly. Moments later, you hear a rustling in the bushes. A dark, ominous figure appears.
@@ -92,7 +100,11 @@ If you choose (5C):
 
 
 
-NIGHT 2 – MORNING MYSTERIES
+DAY 2 
+
+– MORNING MYSTERIES
+
+
 You awaken in a room that barely resembles the one you remember. The shadows seem to breathe on the peeling wallpaper, and a faint metallic tang fills the air. The events of Night 1 weigh heavily on your mind, and you realize that the hotel is shifting its secrets with each cycle.
 Scene 2.1: The Morning Encounter
 In the dimly lit lobby, you catch sight of something disturbing—a dark stain on a polished table and a strange smear along the banister. Alfredo stands at the head of the dining table, his warm smile belying the macabre hints around him.

@@ -7,9 +7,10 @@ def CNCA()
   puts Typer(Scriptcall(7,8))
   puts Typer(Scriptcall(11, 13))
   Storysplit(1,"wait","explore",14,15,16,17)
-  Scriptsplit(1, 20, 21, 25, 30)
+  Scriptsplit(1, 20, 21, 25, 29)
   puts Typer(Scriptcall(33, 35))
   Storysplit(2,"leave","trust", 39,40,43,44)
+  Scriptsplit(2, 49, 50, 45, 46)
   
   
 end 
@@ -65,9 +66,9 @@ end
 
 def Scriptsplit(splitpoint, start_line1, end_line1, start_line2, end_line2)
  
-  if $choicesmade[splitpoint - 2] == "A"
+  if $choicesmade[splitpoint - 1] == "#{splitpoint}A"
     puts Typer(Scriptcall(start_line1, end_line1))
-  elsif $choicesmade[splitpoint - 2] == "B"
+  elsif $choicesmade[splitpoint - 1] == "#{splitpoint}B"
     puts Typer(Scriptcall(start_line2, end_line2))
   end
 end
