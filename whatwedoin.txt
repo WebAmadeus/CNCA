@@ -1,0 +1,18 @@
+fortsätta med choices och resposnses för night 1
+när de är klart kan vi göra night1 till en egen funktion för att main funktionen CNCA ska vara clean.
+börja med choices och responses för night 2
+börja med choices och respnses för night 3
+- ^^ - night 4
+- ^^ - night 5
+göra alla till egna funktioner lära amadeus hur allt funkar
+!! kanske ska änsra så att splitpoint och A eller B sparas i arrayen så det kan trackas lättare vilket val man gjort.
+om några fler funktioner behövs lägg till deras namn i listan och en kor beskrivning av inputs/outputs
+
+
+funktionslistan:
+CNCA(no inputs) # main game loop
+Scriptcall(start_line, end_line) # hämtar text från totalscript.txt för printing
+Choice(choice1, choice2) # lägger in de olika valen som input tar in ett av svaren och outputtar 1 eller 0 baserat på svar, printar "> " så man ser att man ska skriva
+Typer(text) # inputen är outputen från scriptcall, delar up meningar och texter i enskilda boktäver så att det ser ut som texten skrivs ut i terminalen istället för att den bara dyker upp
+Storysplit(splitpoint, choice1,choice2,start_line1, end_line1, start_line2, end_line2) # splitpoint är för att makera vilket val nummer i texten, choice1/2 är valen som väljs mellan, start/endline1/2 resultatet av valet som gjorts, sparar A eller B i globala choicesmade arrayen för att hålla koll på vilka val som gjorts
+Scriptsplit(splitpoint, start_line1, end_line1, start_line2, end_line) # ger olika responser på previos actions inpusten funkar lika som innan.
