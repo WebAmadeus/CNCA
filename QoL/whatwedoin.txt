@@ -8,6 +8,7 @@ göra alla till egna funktioner
 lära amadeus hur allt funkar
 lägga möjlighet att ändra texthastighet uppdatera värdet på sleep() i typer funktionen, bara i början eller under spelets gång?
 om några fler funktioner behövs lägg till deras namn i listan och en kor beskrivning av inputs/outputs
+lägga några funktioner i egna filer? Y/N
 
 
 funktionslistan:
