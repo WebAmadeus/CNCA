@@ -19,15 +19,6 @@ Branch 1A: Waiting
 
 After several minutes, Alfredo returns with a set of keys. He leads you to Room 213. When he opens the door, you see that the room is completely empty except for a single bed placed in the center. An unsettling feeling creeps in.
 
-Choice 2:
-(2A) Try to Leave:
-
- “I actually just remembered I have somewhere to be, sorry Alfredo,” you say.
-
-
-(2B) Trust Alfredo: 
-
-You decide to settle in and wait until morning.
 
 Branch 1B: Exploring
 

@@ -11,7 +11,7 @@ def CNCA()
   Scriptsplit(1, 20, 21, 34, 38)
   puts Typer(Scriptcall(42, 43))
   puts Typer(Scriptcall(44, 45))
-  Storysplit(2,"try to leave", "trust alfredo", 25,26,30,31)
+  Storysplit(2,"try to leave", "trust alfredo", 39,40,43,44)
   
   
 end 
