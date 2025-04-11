@@ -42,7 +42,7 @@ def Choice(choice1, choice2)
     chosen = 0
   else
     puts "Invalid choice. Please try again."
-    return Choice(choice1, choice2) # Recursively ask for input again
+    return Choice(choice1, choice2) #ber dem att svara på frågan igen
   end
   return chosen
 end
@@ -61,7 +61,7 @@ end
 def Storysplit (splitpoint, choice1, choice2, start_line1, end_line1, start_line2, end_line2)
   if Choice(choice1, choice2) == 1
     puts Typer(Scriptcall(start_line1, end_line1))
-    $choicesmade << "#{splitpoint}A"
+    $choicesmade << "#{splitpoint}A" #???
   else
     puts Typer(Scriptcall(start_line2, end_line2))
     $choicesmade << "#{splitpoint}B"
@@ -69,7 +69,7 @@ def Storysplit (splitpoint, choice1, choice2, start_line1, end_line1, start_line
   return
 end
 
-def Scriptsplit(splitpoint, start_line1, end_line1, start_line2, end_line2)
+def Scriptsplit(splitpoint, start_line1, end_line1, start_line2, end_line2) #???
  
   if $choicesmade[splitpoint - 1] == "#{splitpoint}A"
     puts Typer(Scriptcall(start_line1, end_line1))
