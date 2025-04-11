@@ -61,7 +61,7 @@ end
 def Storysplit (splitpoint, choice1, choice2, start_line1, end_line1, start_line2, end_line2)
   if Choice(choice1, choice2) == 1
     puts Typer(Scriptcall(start_line1, end_line1))
-    $choicesmade << "#{splitpoint}A" #???
+    $choicesmade << "#{splitpoint}A" #här sparar jag valet i en array som jag kan kolla på senare för att se vad som ska hända
   else
     puts Typer(Scriptcall(start_line2, end_line2))
     $choicesmade << "#{splitpoint}B"
@@ -69,7 +69,7 @@ def Storysplit (splitpoint, choice1, choice2, start_line1, end_line1, start_line
   return
 end
 
-def Scriptsplit(splitpoint, start_line1, end_line1, start_line2, end_line2) #???
+def Scriptsplit(splitpoint, start_line1, end_line1, start_line2, end_line2) #här kollar man på ett tidigare val för att se vad som ska hända
  
   if $choicesmade[splitpoint - 1] == "#{splitpoint}A"
     puts Typer(Scriptcall(start_line1, end_line1))
