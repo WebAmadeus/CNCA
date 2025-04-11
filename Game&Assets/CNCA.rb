@@ -11,9 +11,10 @@ def CNCA()
   puts Typer(Scriptcall(33, 35))
   Storysplit(2,"leave","trust", 39,40,43,44)
   Scriptsplit(2, 49, 50, 45, 46)
-  if $choicesmade[1] == "2A"
+  if $choicesmade[1] == "2A" #denna bit händer bara om man valt att lämna i val 2
     puts Typer(Scriptcall(51, 52))
     Storysplit(3,"leave","stay", 56,57,61,62)
+    Scriptsplit(3, 64, 65, 82, 83)
   end
 
   
@@ -77,5 +78,5 @@ def Scriptsplit(splitpoint, start_line1, end_line1, start_line2, end_line2) #hä
     puts Typer(Scriptcall(start_line2, end_line2))
   end
 end
-
+ 
 CNCA()

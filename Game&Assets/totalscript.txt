@@ -58,10 +58,11 @@ Choice 3:
 
 (3B) Change Your Mind: 
 
-Unable to brave the storm you retun inside
+Unable to brave the storm you return inside
 
 Outcome 3A:
  You make your way to the front door. Once outside, the rain beats down mercilessly. Moments later, you hear a rustling in the bushes. A dark, ominous figure appears.
+
  Choice 4:
 (4A) Run Back into the Hotel: You dart back inside.
 
@@ -77,9 +78,10 @@ If you choose (4B):
  You died.
  The cycle resets with subtle changes—a new clue (a dropped scarf, a smeared fingerprint) hints at what might be different this time. Sleep overtakes you, and Night 2 dawns.
 
-Branch 2B: Trust Alfredo
+Branch 3B: stay at the hotel
 You smile weakly and reply, “Actually, nevermind. I can stay until tomorrow.” Alfredo hands you the keys and, with a warm “Goodnight,” departs.
  Inside, you open the door—but the room has transformed. Where once there was bare simplicity, now paintings, tables, chairs, and decorations fill the space. It’s as if the room itself is alive and shifting.
+ 
 Choice 5:
 (5A) Run Back into the Hotel: You feel panic and flee to the lobby, where Alfredo is seen cooking in the stairwell.
 
