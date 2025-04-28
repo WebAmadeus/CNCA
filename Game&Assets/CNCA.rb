@@ -173,7 +173,7 @@ def Typer(text)
   i = 0
   while i < text.length
     print text[i]
-    sleep(0) #justerar hastigheten på texten som skrivs ut
+    sleep(0.01) #justerar hastigheten på texten som skrivs ut
     $stdout.flush #jag frågade chatgpt om hur man kan få textan att se ut att bli skriven i terminalen och den sa att denna skulle vara med för att den skulle komma en bokstav i taget, annars kan det klumpas ihop av ruby för effektivitet
     i += 1
   end
