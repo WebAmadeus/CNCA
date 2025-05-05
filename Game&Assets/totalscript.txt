@@ -59,14 +59,14 @@ NIGHT 2 – BREAKFAST & CLUES
 Scene: 
 You wake up and walk down to the Dining Hall.
 
-Alfredo serves breakfast, mentioning the hotel’s old history and how it was built centuries ago as a mantion of an old ancestor of his. As he talks all you can think about is the locked door that looms behind him.
+Alfredo serves breakfast, mentioning the hotel’s old history and how it was built centuries ago as a mantion of an old ancestor of his. As he talks all you can think about is the door that looms behind him with a large blue lock on it.
 Choice 1:
 
 Do you whant to *ask* about the door or not mention it and *explore* alone later
 
 Ask About the Door:
- He deflects and says it´s just an old storage room. But after you have finished eating and Alfredo has left to do some chores you swear swear you hear muffled screams in from the room.
- Frightened your firt thought is too leave but theres still a storm outside. You decide too stay low and just wait out the storm.
+He deflects and says it´s just an old storage room. But after you have finished eating and Alfredo has left to do some chores you swear swear you hear muffled screams in from the room.
+Frightened your firt thought is too leave but theres still a storm outside. You decide too stay low and just wait out the storm.
 
 Explore Alone: 
 After you have finished eating and Alfredo has left to do some chores you sneak away to the door and swear you can hear scream coming from the door. 
@@ -88,17 +88,26 @@ Refuse and leave:
 You thank him for the invitation but say that you really should get going now. He looks at you and smiles cold.
 "Yeah, i understand. Too bad though, would have been a nice dinner"
 You leave and try to hurry. When you have made it to the other side of the street from the hotel you pick up your phone to try and call a taxi. It is still stormy outside but hopefully someone will still be able to come get you.
-
+After half an hour a taxi comes to pcik you up and you jump in quickly to get out of the storm. When you have closed the door to look to your side your see that is Alfrado driving the car!!! 
+"You really thought you could leave?"
+You grab the door and tries to leave but it is locked. As you turn around towards Alfrado you feel your head aching and suddenly everything your black.
 
 
 NIGHT 4 – THE MAZE
-Scene: Shifting Corridors
-The hotel warps into a labyrinth. Alfredo beckons to a “private parlor” filled with portraits of missing guests.
-Choice 1:
+Scene: 
+You wake up early on night 4 and instanly an ide stikes you. Maybe i could sneak in to Alfrado and try to grab the blue key.
 
-Follow Him: He cryptically hints at the hotel’s dark past. Find a blood-smeared journal: “They are mine forever.”
+choice 1
 
-Search for Exits: Halls bleed. A shadowy figure drags a victim past a window. Alfredo whispers: “Stay.”
+Do you whant to *steal* the keys or go back to *sleep*
+
+Steal:
+You wal towards Alfrados room and
+
+
+Sleep:
+You try to go back to sleep but you can not stop thinking about what might be hidden behind that door so you decide to try and steal the keys any ways.
+
 
 NIGHT 5 – FINAL CONFRONTATION
 Scene: The Heart of Darkness
