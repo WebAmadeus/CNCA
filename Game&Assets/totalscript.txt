@@ -48,21 +48,38 @@ You walk back to the hotel and lie to Alfredo about how you really do not think 
 NIGHT 2 – BREAKFAST & CLUES
 Scene: 
 You wake up and walk down to the Dining Hall.
-Alfredo serves breakfast, mentioning the hotel’s “slowly revealed truths.” A locked door looms behind him.
+
+Alfredo serves breakfast, mentioning the hotel’s old history and how it was built centuries ago as a mantion of an old ancestor of his. As he talks all you can think about is the locked door that looms behind him.
 Choice 1:
 
-Ask About the Door: He deflects. Later, you hear muffled screams in the halls.
+Do you whant to *ask* about the door or not mention it and *explore* alone later
 
-Explore Alone: Find a hidden room with news clippings: “Guests Disappear Without a Trace.”
+Ask About the Door:
+ He deflects and says it´s just an old storage room. But after you have finished eating and Alfredo has left to do some chores you swear swear you hear muffled screams in from the room.
+ Frightened your firt thought is too leave but theres still a storm outside. You decide too stay low and just wait out the storm.
+
+Explore Alone: 
+After you have finished eating and Alfredo has left to do some chores you sneak away to the door and swear you can hear scream coming from the door. 
+Frightened your firt thought is too leave but theres still a storm outside. You decide too stay low and just wait out the storm.
 
 NIGHT 3 – DINNER & DECEPTION
-Scene: Alfredo’s Invitation
+Scene: 
+You wake up late at night 3. You walk down to the dining room and meets Alfredo who invites you to dinner later in the evening.
 Alfredo insists on a candlelit dinner. His demeanor feels possessive.
+
 Choice 1:
 
-Accept Dinner: Notice a red smear on his wine glass. He dismisses it. Afterward, tortured screams echo nearby.
+Do you whant to *accept* Alfredo’s invitation or *refuse* and try to leave
 
-Refuse and Flee: The storm traps you. You awaken bruised, back in your room.
+Accept Dinner: 
+You accept the dinner and spends the day sitting around in yur room waiting for the dinner. During teh dinner you notice a blue key in Alfrados pocket and think "maybe that leads to the creepy door".
+
+Refuse and leave: 
+You thank him for the invitation but say that you really should get going now. He looks at you and smiles cold.
+"Yeah, i understand. Too bad though, would have been a nice dinner"
+You leave and try to hurry. When you have made it to the other side of the street from the hotel you pick up your phone to try and call a taxi. It is still stormy outside but hopefully someone will still be able to come get you.
+
+
 
 NIGHT 4 – THE MAZE
 Scene: Shifting Corridors
