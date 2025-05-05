@@ -37,7 +37,8 @@ def CNCA()
   puts Typer(Scriptcall(65, 66))
   Storysplit(4,"ask","explore",67,68,72,73)
   Scriptsplit(4, 69, 71, 74, 76)
-  
+  puts Typer(Scriptcall(77, 78))
+
   
   # Natt 3
   $day_counter = 3
