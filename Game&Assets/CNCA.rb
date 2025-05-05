@@ -8,37 +8,26 @@ def CNCA()
   puts "*Carlos* or *Valentina* ** stars mark valid answers"
   Choice("carlos","valentina")
   
-  puts Typer(Scriptcall(7, 8))  
+  puts Typer(Scriptcall(5, 6))  
   
   # Natt 1
   puts Typer("\nNIGHT 1 – ARRIVAL")
-  puts Typer(Scriptcall(11, 14)) 
-  Storysplit(1,"wait","explore",16,17,19,20)
-  Scriptsplit(1, 24, 25, 29, 34)
-  puts Typer(Scriptcall(37, 39)) 
+  puts Typer(Scriptcall(8, 11)) 
+  Storysplit(1,"wait","explore",15,16,20,21)
+  Scriptsplit(1, 17, 18, 22, 24)
+  puts Typer(Scriptcall(28, 31)) 
   
-  Storysplit(2,"leave","trust",43,44,47,48)
-  Scriptsplit(2, 53, 54, 49, 50)
+  Storysplit(2,"leave","trust",39,40,34,35)
+  Scriptsplit(2, 41,42,36,37)
   
   if $choicesmade[1] == "2A"
-    puts Typer(Scriptcall(55, 57))
-    Storysplit(3,"leave","stay",60,61,66,67)
-    Scriptsplit(3, 69, 72, 87, 89)
-    
+    puts Typer(Scriptcall(43, 46))
+    Storysplit(3,"leave","hotel",48,49,54,55)
+    Scriptsplit(3, 50, 52, 56, 57)
     if $choicesmade[2] == "3A"
-      Storysplit(4, "away", "back",80,81,76,77)
-      
-      if $choicesmade[3] == "4A"
-        puts Typer(Scriptcall(89, 90))
-        GameOver()
-        return
-      end
-    elsif $choicesmade[2] == "3B"
-      Storysplit(5, "flee", "sleep", 78, 79, 82, 83)
-      
+      GameOver()
     end
   end
-  
   # Dag 2
   $day_counter = 2
   Sleep()
@@ -56,7 +45,7 @@ def CNCA()
   Sleep()
   
   
-  end
+  
   
   puts Typer("\nCongratulations you survived the five nights at Alfredo.")
   puts Typer("But will alfredo really let you leave...?")

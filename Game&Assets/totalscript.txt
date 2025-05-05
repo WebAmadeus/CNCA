@@ -7,15 +7,18 @@ On a stormy December night, you meet Alfredo, the owner of Hotel de Español, at
 NIGHT 1 – ARRIVAL
 You arive at the hotel and enter.
 Alfredo leaves to fetch keys for a hotelroom for you. The lobby is eerily quiet.
-Choice 1:
 
 Do you whant to *Wait* or *Explore*
 
 
 Wait:
-He returns, leading you to Room 213 a bare room with a single bed. Unease gnaws at you.
+You decide to wait in the lobby
+
+Alfredo returns, leading you to Room 213 a bare room with a single bed. Unease gnaws at you.
 
 Explore:
+Your curious nature makes you want to explore the lobby
+
 You find a shifting painting and a guestbook with Alfredo’s decades-old signature. He calls you back sharply.
 You both walk toward the room 213 and he hands you the keys to open the door. When you do so a wave of fear hits you.
 
@@ -28,22 +31,29 @@ Do you whant to *Trust* Alfredo or Try to *leave*
 
 
 Trust Alfredo: 
-You trust Alfredos good intentions and wave him good bye befor you go to sleep fitfully.
+You trust Alfredos good intentions and wave him goodbye before you go to sleep. 
+
+The soothing sound of the rain lulls you to sleep.
 
 Try to Leave:
 "I just remembered i have something important to do tomorrow so i actually think it is best for me to go home".
+
 Alfredo smiles friendly and answers "I completely understand, hope you get home safe"
+
 After you left the building and started walking down the street you hear a weird noise near by and it frightens you.
 
 Do you still whant to *leave* or go back to the *hotel*
 
 leave:
-You choose to ignore the fear and keeps on walking. As the sound gets louder and louder you are convinced it is the sound of foot steps behind you. You start running
-You run faster but still the steps are behind you. Running in the dark of the night you missed a step and tripped. Lying face down on the sidewalk you then turn around to get up. 
+You choose to ignore the fear and keeps on walking. As the sound gets louder and louder you are convinced it is the sound of foot steps behind you. 
+
+You start running You run faster but still the steps are behind you. Running in the dark of the night you missed a step and tripped. Lying face down on the sidewalk you then turn around to get up. 
 Standing over you you see a large darg figure, before have chance to react everything goes black.
 
 Hotel:
 You walk back to the hotel and lie to Alfredo about how you really do not think you will be able to get home in this storm.
+
+Tired and wet you return to the room and fall into an uneasy sleep...
 
 NIGHT 2 – BREAKFAST & CLUES
 Scene: 
