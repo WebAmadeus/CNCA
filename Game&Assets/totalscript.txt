@@ -104,21 +104,56 @@ choice 1
 Do you whant to *steal* the keys or go back to *sleep*
 
 Steal:
-You wal towards Alfrados room and
+You walk towards Alfrados room and see him sleeping. On his bedside table you see the blue keys. They are very close to him, and there is a risk he might wake up if you try to get them but you have already made up your mind.
 
+if 1B:
+You walk as quietly as possible towards the keys. You can literally feel his breath on your hand as you bend down to pick up the keys. You leave quietly and go back to your room.
+
+else:
+You walk as quietly as possible towards the keys. You can literally feel his breath on your hand as you bend down to pick up the keys. As you pick up the keys the make a scrambling noise. In fear you freeze
+Slowly you look to your side at Alfrado.
+He is staring right at you. His eyes tell you everything...
+You now it is over. Before you have time to try and run everything suddenly goes black.
 
 Sleep:
 You try to go back to sleep but you can not stop thinking about what might be hidden behind that door so you decide to try and steal the keys any ways.
 
+if 1B:
+You walk as quietly as possible towards the keys. You can literally feel his breath on your hand as you bend down to pick up the keys. You leave quietly and go back to your room.
+
+else:
+You walk as quietly as possible towards the keys. You can literally feel his breath on your hand as you bend down to pick up the keys. As you pick up the keys the make a scrambling noise. In fear you freeze
+Slowly you look to your side at Alfrado.
+He is staring right at you. His eyes tell you everything...
+You now it is over. Before you have time to try and run everything suddenly goes black.
+
+
+choice 2:
+While in your room you hide the keys under your pillow tomporarily while you think if you whant to go for the door now or hope Alfrado does not notice his keys missing and instead go look tomorrow.
+
+Do you whant to check the door *now* or wait for *tomorrow*
+
+now:
+You take the keys and walk to the door. You put the keys in the door and NO!! it is not the right keys!!! You hurry back and leave them as you took them without getting noticed.
+You were so curious about what was behind the door, what to do now?
+
+coice 3:
+do you whant to go *looking* for another key or just sit around *waiting* for tomorrow hoping the storm will have ended.
+
+looking:
+You spend the day walking around casually talking with Alfrado when you see him. But in reality you are just looking for another key.
+Just before bed time you open the drawer in your room an there, another blue key. You can see that it is not the same as the other and decide to try it out tomorrow.
+
+Waiting:
+You spend the day talking with Alfrado about how insane it is that the storm has not ended yet and sitting on your room with your phone, just waiting for tomorrow.
+
+
+Tomorrow:
+You spend the day talking with Alfrado about how insane it is that the storm has not ended yet and sitting on your room with your phone, just waiting for tomorrow.
 
 NIGHT 5 – FINAL CONFRONTATION
-Scene: The Heart of Darkness
-The hotel pulses with malice. Alfredo, now unhinged, declares: “You belong here.”
-Choice 1:
 
-Confront Him: Fight to activate a hidden switch. Escape briefly—but the cycle resets.
 
-Flee Through Secret Passages: Find an “EXIT,” but Alfredo corners you. The storm swallows your screams.
 
 THE END
 You survive… but the hotel’s grip lingers. Will Alfredo ever let you go?
