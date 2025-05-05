@@ -32,22 +32,43 @@ def CNCA()
   $day_counter = 2
   Sleep()
 
-  puts Typer("\nNIGHT 2 – Breakfast & Clues")
+  puts Typer("\nNIGHT 2 – Breakfast")
   puts Typer(Scriptcall(60, 62))
   puts Typer(Scriptcall(65, 66))
   Storysplit(4,"ask","explore",67,68,72,73)
   Scriptsplit(4, 69, 71, 74, 76)
   puts Typer(Scriptcall(77, 78))
-
-  
   # Natt 3
   $day_counter = 3
   Sleep()
-  
+  puts Typer("\nNIGHT 3 – Dinner ")
+  puts Typer(Scriptcall(82, 84))
+  puts Typer(Scriptcall(87, 88))
+  Storysplit(5,"accept","refuse",90,91,95,96)
+  if $choicesmade[4] == "5B"
+    puts Typer(Scriptcall(97,102))
+    GameOver()
+  end
+  puts Typer(Scriptcall(104, 105))
+
   # Natt 4
   $day_counter = 4
   Sleep()
-  
+  puts Typer("\nNIGHT 4 – Heist")
+  puts Typer(Scriptcall(108, 109))
+  puts Typer(Scriptcall(112, 113))
+  Storysplit(6,"Steal","Sleep",115,116,127,128)
+  if $choicesmade[0] == "1B"
+    puts Typer(Scriptcall(130, 131))
+  else
+    puts Typer(Scriptcall(121, 125))
+    GameOver()
+  end
+  Storysplit(7, "now", "tomorrow", 145, 147, 160, 161)
+  if $choicesmade[6] == "7A"
+    Storysplit(8,"looking","waiting",152,154,156,157)
+  end
+  puts Typer(Scriptcall(162, 163))
   # Natt 5
   $day_counter = 5
   Sleep()
