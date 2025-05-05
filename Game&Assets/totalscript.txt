@@ -1,356 +1,86 @@
 INTRODUCTION
 Welcome to Cinco Noches con Alfredo!
-Choose your character:
-*Carlos* or *Valentina*  *choice* starts mark valid answers
 
 BACKSTORY
-It was a late December night. You were sitting alone at the bar, nursing a drink, when a plump, comforting man approached. Drunk and bored you strike up a conversation. During your talk, he introduced himself as Alfredo. The owner of Hotel de Español, a nearby establishment. With a storm raging outside, Alfredo kindly offers you shelter instead of letting you face the cold, wet night. You accept and follow him to his hotel.
+On a stormy December night, you meet Alfredo, the owner of Hotel de Español, at a bar. He offers shelter from the storm. Intrigued (or desperate), you follow him.
+
+NIGHT 1 – ARRIVAL
+You arive at the hotel and enter.
+Alfredo leaves to fetch keys for a hotelroom for you. The lobby is eerily quiet.
+Choice 1:
+
+Do you whant to *Wait* or *Explore*
 
 
- NIGHT 1 – ARRIVAL
- Scene 1: The Hotel Entrance
- You arrive at the hotel. Alfredo asks you to wait for just a moment while he fetches the keys. Outside, the wind howls and the rain intensifies.
-    What do you want to do? 
-    *Wait* or *Explore*
- 
- You decide to remain where you are.   
- 
- 
- You wander around the lobby and adjacent corridors.
- 
+Wait:
+He returns, leading you to Room 213 a bare room with a single bed. Unease gnaws at you.
 
- Branch 1A: Waiting
-
- After several minutes, Alfredo returns with a set of keys. He leads you to Room 213. When he opens the door, you see that the room is completely empty except for a single bed placed in the center. An unsettling feeling creeps in.
- 
- 
- Branch 1B: Exploring
- 
- Curiosity gets the better of you, and you decide to explore the hotel while Alfredo fetches the keys. The dimly lit corridors stretch endlessly, and the faint sound of dripping water echoes through the halls. As you wander, you notice something peculiar—a painting on the wall that seems to shift when viewed from different angles. At first, it appears to be a serene landscape, but as you step closer, the image distorts into a dark, stormy scene with shadowy figures lurking in the background.
- 
- You feel a chill run down your spine as you continue down the corridor. At the end of the hall, you find a small, ornate table with a dusty guestbook resting on top. Flipping through its pages, you notice that many of the entries are crossed out, leaving only faint impressions of names and dates. One entry catches your eye—it's dated decades ago but signed with Alfredo's name.
- 
- Before you can investigate further, you hear Alfredo's voice calling from the lobby. "I've got the keys! Come along now, my dear." You quickly return, but the unsettling feeling lingers.
- 
- Choice 2:
- 
- The atmosphere in the hotel makes you feel uneasy, maybe you should've just gone home?
- 
- Do you want to try to *leave* or *trust* Alfredo?
- 
- (2A) Try to Leave:
- 
-  "I actually just remembered I have somewhere to be, sorry Alfredo," you say.
- 
- (2B) Trust Alfredo: 
- 
- You decide to settle in and wait until morning. 
- 
- Sleep doesnt come easy as you toss and turn for most of the night still with an uneasy feeling in your chest. Eventually you fall asleep and darkness consumes you.
- 
- Branch 2A: Try to Leave
- 
- Alfredo smiles kindly and replies, "Oh, that's perfectly fine. You can simply go back the way we came." You step out into the corridor, the storm still raging.
- 
- The howling wind seems to urge you to stay. Are you sure you want to *leave*? or have you changed you changed your mind and want to *stay*?
- 
-
- Choice 3:
-  (3A) Leave for Good:
- 
-  You head out into the hall
- 
- 
- (3B) Change Your Mind: 
- 
- Unable to brave the storm you return inside
- 
- Outcome 3A:
-  You make your way to the front door. Once outside, the rain beats down mercilessly. Moments later, you hear a rustling in the bushes. A dark, ominous figure appears. 
-  Do you want to:
-  Run *away* into the dark or run "*back* to the hotel
-
- 
-  Choice 4:
- (4B) Run Back into the Hotel: 
- You dart back inside.
- 
- 
- (4A) Run Away into the Storm: 
- You try to flee further into the night.
- 
- 
- If you choose (4B):  
- You sprint back into the hotel, slamming the door behind you. Inside, you see Alfredo on the stairs with a pan in hand, his smile strangely fixed as if nothing is amiss. The terror lingers—but you've made it back for now.
-
-  → Transition to Night 2 (after you eventually settle into your room to sleep).
-
- If you choose (4A):
- The slippery pavement sends you sprawling. As you struggle to stand, unseen hands close around your neck. The darkness swallows you.
+Explore:
+You find a shifting painting and a guestbook with Alfredo’s decades-old signature. He calls you back sharply.
+You both walk toward the room 213 and he hands you the keys to open the door. When you do so a wave of fear hits you.
 
 
-Branch 3B: stay at the hotel
- You smile weakly and reply, "Actually, nevermind. I can stay until tomorrow." Alfredo hands you the keys and, with a warm "Goodnight," departs.
-Inside, you open the door—but the room has transformed. Where once there was bare simplicity, now paintings, tables, chairs, and decorations fill the space. It's as if the room itself is alive and shifting.
- 
-Choice 5:
-(5A) Run Back into the Hotel: 
-You feel panic and flee to the lobby, where Alfredo is seen cooking in the stairwell.
-98 
-99 (5B) Go to Sleep: 
-100 Exhaustion overcomes you.
-101 
-102 
-103 
-104 DAY 2 – MORNING MYSTERIES
-105 
-106 
-107 You awaken in a room that barely resembles the one you remember. The shadows seem to breathe on the peeling wallpaper, and a faint metallic tang fills the air. The events of Night 1 weigh heavily on your mind, and you realize that the hotel is shifting its secrets with each cycle.
-108 Scene 2.1: The Morning Encounter
-109 In the dimly lit lobby, you catch sight of something disturbing—a dark stain on a polished table and a strange smear along the banister. Alfredo stands at the head of the dining table, his warm smile belying the macabre hints around him.
-110 Alfredo (cheerfully):
-111  "Good morning, my dear. I've prepared a breakfast that will brighten even the darkest of storms. Please, join me."
-112 Choice 2.1:
-113 (A) Accept the breakfast invitation and sit with Alfredo.
-114 
-115 
-116 (B) Excuse yourself from the table and explore the corridors for clues.
-117 
-118 
-119 Branch 2.A: Breakfast with Alfredo
-120 You settle at the table, where the meal is both sumptuous and unsettling. As you nibble on pastries and sip your coffee, Alfredo casually remarks, "Every guest here finds that the hotel reveals its truths slowly—just as the night yields to the morning."
-121  Your eyes wander to a heavy, locked door behind him—a door you've never noticed before.
-122 Choice 2.A.1:
-123 
-124 (A1) Ask Alfredo about the locked door.
-125 
-126 
-127 (A2) Keep your curiosity hidden and finish your meal.
-128 
-129 
-130 Outcome 2.A.1(A1): Confronting the Mystery
-131 You lean forward and ask, "Alfredo, what lies behind that door?" His smile flickers with uncertainty before he answers, "Some secrets, my dear, are meant to unfold in time."
-132  Later, while strolling the corridor, you hear muffled cries and catch a glimpse of red—a dark streak on the wall that seems to pulse with life.
-133  That evening, you retire to your room, mind reeling with questions and dread, and sleep takes you into Night 3.
-134 
-135 
-136 Outcome 2.A.1(A2): Silent Dread
-137 You remain silent, though the image of the locked door haunts you. After breakfast, as you pass by the door, a quiet, almost imperceptible whisper—"Stay… stay with me…"—echoes from within. You leave the dining hall and return to your room, the unsettling promise lingering until you collapse into a troubled sleep.
-138  Night 3 awaits, with deeper mysteries and darker corridors.
-139 
-140 
-141 
-142 
-143 Branch 2.B: Exploring Alone
-144 You excuse yourself from the table, leaving behind Alfredo's polite insistence. Wandering through the maze-like corridors, you notice faded symbols on the walls and shards of dried blood on the floor.
-145  At a narrow junction, you spot a door left ajar. Inside, scattered on a dusty table, are old photographs, clippings with crossed-out faces, and a newspaper headline screaming: "Guests Disappear Without a Trace."
-146 Choice 2.B.1:
-147 
-148 
-149 
-150 (B1) Gather evidence (photocopies, clippings) and quietly return to your room.
-151 
-152 
-153 (B2) Push deeper into the restricted wing, drawn by your mounting curiosity.
-154 
-155 
-156 Outcome 2.B.1 (B1): The Hidden Evidence
-157 You carefully collect the evidence, tucking the newspaper clipping and a faded photograph into your jacket. Just as you turn to leave, distant footsteps echo along the corridor. Hiding behind a pillar, you see Alfredo passing by—his calm, deliberate pace hinting at secrets he guards closely.
-158  Shaken but determined, you return to your room and lie awake until exhaustion finally claims you.
-159  Night 3 dawns with new clues—and darker threats.
-160 
-161 
-162 
-163 Outcome 2.B.1 (B2): Into the Forbidden Wing
-164 Driven by a need to know more, you push forward until you reach a heavy, ornate door. It creaks open on its own, revealing a room cluttered with abandoned belongings. In the center hangs a large mirror smeared with blood. For a moment, you see a shadowy figure behind you—a fleeting image that could be Alfredo or something else entirely.
-165  Terror overwhelms you, and you rush back, tripping over your own feet and falling into a fitful sleep.
-166  Night 3 arrives, leaving you with the bitter taste of fear and unanswered questions.
-167 
-168 No matter which branch you choose on Night 2, sleep eventually overtakes you. The hotel's darkness lulls you into a restless slumber as you prepare to face the next night.
-169 
-170 
-171 
-172 
-173 NIGHT 3 – THE MASK SLIPS
-174 Night 3 begins in a hotel that feels alive with malice. The corridors are distorted, and the once-familiar layout twists into an unrecognizable labyrinth. Alfredo's behavior has shifted—his kindly manner now bordering on possessive, even predatory.
-175 Scene 3.1: The Dinner Invitation
-176 As dusk settles, Alfredo appears at your door with an almost feverish smile.
-177 Alfredo (softly):
-178  "My dear, tonight I shall make you feel truly at home. Join me for dinner, and let us share a meal that warms the soul."
-179 Choice 3.1:
-180 (A) Accept his invitation to dinner, all the while planning your next move.
-181 
-182 
-183 (B) Refuse dinner and attempt an immediate escape.
-184 
-185 
-186 Branch 3.A: Dinner with a Hidden Agenda
-187 You agree to dinner, masking your growing apprehension behind a polite smile. In the candlelit dining room, Alfredo's conversation is intimate—he recalls details of your past and makes unsettling compliments that feel more like claims of possession than affection.
-188  Halfway through the meal, you notice something odd: a red smear on the rim of his wine glass.
-189 Choice 3.A.1:
-190 
-191 (A1) Confront Alfredo about the red smear.
-192 
-193 
-194 (A2) Remain silent and observe, hoping to find a distraction.
-195 
-196 
-197 Outcome 3.A.1 (A1): The Red Question
-198 With a trembling voice, you ask, "Alfredo, what is that red mark on your glass?"
-199  For a split second, his warm expression falters, and his eyes flash with something unreadable. "Just a bit of wine, my dear. Nothing to worry about," he replies, his tone too smooth, too rehearsed.
-200  After dinner, he escorts you to a private lounge. As you wander the dim room later, you hear tortured sobbing and distant, echoing screams—hints of horrors concealed in the hotel's shadows.
-201  You return to your room, sleep disturbed by the sounds, and Night 4 begins with an undercurrent of dread.
-202 
-203 
-204 
-205 
-206 Outcome 3.A.1 (A2): Silent Observation
-207 You swallow your doubts and finish your meal in silence. Once Alfredo retreats to his study, you slip away into the corridors. You discover a hidden door behind a bookshelf leading to a narrow passage lined with old portraits whose eyes seem to follow you.
-208  In a secluded alcove, you find a tattered journal documenting previous guests' disappearances and eerie accounts of screams in the night. The weight of this knowledge chills you as you return to your room.
-209  Sleep takes you into Night 4, your mind alive with the terror of what you've uncovered.
-210 
-211 
-212 
-213 
-214 
-215 Branch 3.B: Immediate Escape Attempt
-216 Determined not to fall deeper into the trap, you decide to leave immediately. Grabbing your meager belongings, you slip out as Alfredo's voice calls softly from behind:
-217  "Don't be afraid, my dear. There's no need to hurry—stay with me."
-218 Outside, the storm rages. The rain and wind disorient you, and a sudden, blood-curdling scream shatters the night. You sprint for the exit, but the slick pavement forces a slip. As you scramble up, unseen hands seem to tug at you. A searing pain shoots through your arm, and darkness engulfs you.
-219 
-220 
-221 
-222 
-223 
-224 Outcome 3.B:
-225  You awaken later in your room—dazed, bleeding, and with the echo of that scream still ringing in your ears. You realize escape is not so simple, and the hotel's grip tightens further.
-226  Night 4 descends, leaving you more wary and desperate than before.
-227 
-228 After the trials of Night 3, you eventually collapse into a fitful sleep, and the cycle shifts you into a new realm of horrors.
-229 
-230 
-231 
-232 
-233 NIGHT 4 – THE SHIFTING MAZE
-234 Night 4 finds the hotel morphing into something almost sentient. Corridors twist unpredictably, doors lead to unknown rooms, and Alfredo's behavior has become overtly menacing—yet still draped in a veneer of charm.
-235 Scene 4.1: The Invitation to the Private Parlor
-236 You awaken in a room that now seems to exist on the edge of reality. The decor is nightmarish: peeling wallpaper, dim, flickering lights, and walls streaked with fresh red. In the corridor, Alfredo's soft voice beckons you.
-237 Alfredo (gently):
-238  "Come, let me show you something extraordinary tonight."
-239  He gestures toward a door marked "Private."
-240 Choice 4.1:
-241 (A) Follow Alfredo into the private area, hoping to learn the truth.
-242 
-243 
-244 (B) Resist his invitation and search the corridor alone for another exit.
-245 
-246 
-247 Branch 4.A: Entering the Private Parlor
-248 You allow yourself to be led by Alfredo into a lavish private parlor. Here, the lighting is low, and the room is adorned with eerie artifacts—ancient portraits, cryptic symbols, and a grand table set for two.
-249  During a candlelit dinner, Alfredo recounts vague stories of the hotel's past: lost souls, vanished guests, and inexplicable events that defy logic. On the wall hangs a large photograph showing Alfredo with a group of guests, each marked with crimson stains on their faces.
-250 Choice 4.A.1:
-251 
-252 (A1) Question the photograph and the red marks.
-253 
-254 
-255 (A2) Excuse yourself mid-dinner to explore the parlor's hidden corners.
-256 
-257 
-258 Outcome 4.A.1 (A1): The Questioning
-259 You muster your courage and ask, "Who are these guests, Alfredo? And what do these marks mean?"
-260  His smile tightens. "Those were troubled times, my dear. They left their mark on the hotel—and on me." His tone is ambiguous, neither fully regretful nor menacing.
-261  After dinner, the sounds of frantic knocking and muffled screams outside your door force you back to your room.
-262  Sleep overtakes you with your mind buzzing, and Night 5 looms on the horizon.
-263 
-264 
-265 
-266 Outcome 4.A.1 (A2): The Hidden Study
-267 Discreetly, you excuse yourself and wander the parlor alone. Behind a heavy velvet curtain, you discover a concealed study. In it lies a diary—the personal record of Alfredo's descent into madness, chronicling his obsessive need to "preserve" his guests. The final pages are smeared with blood and cryptic scribbles.
-268  Shaken, you retreat to your room, the diary clutched in your hand, and sleep engulfs you in dread.
-269  Night 5 is coming, and with it, the final confrontation.
-270 
-271 
-272 
-273 
-274 Branch 4.B: Exploring the Maze Alone
-275 Rejecting Alfredo's invitation, you venture into the shifting corridors on your own. The hallways twist like a maze, and every step reveals new horrors—walls splattered with fresh blood, doors that open to rooms filled with abandoned personal items, and the echo of anguished cries that seem to come from nowhere.
-276  Peering through a grimy window, you witness a shadowy figure being dragged by unseen hands. Desperate for freedom, you rush toward the main entrance, only to have the floor shift beneath you. The walls close in, and Alfredo's soothing voice whispers, "There's no need to hurry, my dear. Stay with me."
-277  Struggling, you find yourself back in a room that you recognize—but now, a new note is affixed to the door: "You can't leave what is yours."
-278  Exhausted, you collapse into a restless sleep, and Night 5 descends with renewed terror.
-279 
-280 No matter which branch of Night 4 you experience, the night eventually ends with you returning to your room—bruised in body or spirit—and drifting into an uneasy sleep as you brace yourself for the final night.
-281 
-282 
-283 
-284 
-285 
-286 
-287 
-288 
-289 NIGHT 5 – THE FINAL STRUGGLE
-290 Night 5 is the culmination of your ordeal. The hotel has become a living nightmare—a labyrinth of blood, screams, and shifting realities. Alfredo's kindly mask is gone, replaced by a raw, obsessive madness. This is the night where every escape route is fraught with peril and every choice may be your last.
-291 Scene 5.1: The Last Stand
-292 You awaken in a room that is barely recognizable—a distorted echo of your previous sanctuaries. The lights flicker over walls painted with streaks of red, and anguished screams echo from distant corridors. Alfredo stands at your door, his expression a mixture of longing and madness.
-293 Alfredo (softly, almost tenderly):
-294  "My dear, tonight I promise you a revelation—a love that transcends time and pain. You belong here, with me."
-295 Choice 5.1:
-296 (A) Confront Alfredo directly—demand your freedom and denounce his twisted affection.
-297 
-298 
-299 (B) Launch a final escape attempt—using every piece of evidence and every secret passage you have discovered.
-300 
-301 
-302 Branch 5.A: Confrontation
-303 With your heart pounding, you step forward and declare, "Alfredo, I want out! I've seen the blood, heard the screams—I refuse to be your captive any longer!"
-304  For a moment, his eyes soften, as if haunted by memories of the guests he once adored. Then his smile returns—colder, more determined.
-305  "You misunderstand, my love. I only wish to keep you safe, to keep you with me forever," he whispers before lunging at you.
-306  A brutal struggle ensues as the room shudders and the walls seem to pulse with life. In the melee, you manage to knock him aside and find a hidden switch embedded in the wall—perhaps a mechanism controlling the hotel's traps.
-307  Outcome 5.A:
-308 
-309 
-310 
-311 (A1) If you manage to activate the switch, the room's shifting stops for a moment. In that brief pause, you seize the chance to bolt for a side door. The cycle fractures—but not entirely. You collapse into sleep, battered, and awaken to a new day with the cycle reset, yet your defiant act etching a clue for future escape.
-312 
-313 
-314 
-315 
-316 (A2) If you fail to activate the switch, the hotel's very walls conspire against you. Alfredo's grip tightens and darkness overwhelms you.
-317  You died.
-318  (The cycle resets with new, even harsher configurations.)
-319 
-320 
-321 
-322 Branch 5.B: The Final Escape Attempt
-323 Clutching the diary, clippings, and every scrap of evidence you have gathered, you make your way to the secret passage you discovered in Night 4. The narrow corridor is lit only by your trembling flashlight, and behind you, Alfredo's voice whispers, "I'm always with you, my dear. You cannot escape my love."
-324  At the end of the passage stands a heavy door marked "EXIT." You push it open and are met by a blinding flash of red light—the corridor beyond is awash in fresh blood and echoing cries.
-325 Choice 5.2:
-326 
-327 
-328 
-329 
-330 (B1) Rush through the blood-soaked corridor, determined to break free.
-331 
-332 
-333 (B2) Crouch in the shadows, waiting for the chaos to subside before making your move.
-334 
-335 
-336 Outcome 5.B.1 (B1): The Desperate Dash
-337 You sprint forward, your pulse pounding in your ears as you dodge dripping walls and frantic sounds. Just as you near what appears to be freedom, Alfredo materializes—a spectral figure of sorrow and fury. "You can't leave," he hisses. In a desperate scuffle, you shove him aside and burst into the stormy night.
-338  For a moment, you taste freedom as the exit slams behind you, but then the world goes black.
-339  You died.
-340  (The cycle resets with the remnants of your escape effort etched into the hotel's layout.)
-341 
-342 
-343 Outcome 5.B.2 (B2): The Patient Escape
-344 You crouch in the shadows, your breath shallow as you wait. Minutes pass in agonizing silence until the sounds of pursuit fade. Seizing the moment, you slip through another side door that leads to a narrow staircase. The exit is not in sight, but a flicker of hope ignites within you as you climb.
-345  At the top, you find a small window with rain pelting against it. You force it open and, with a final burst of strength, slip out into the night.
-346  For a fleeting moment, you stand in the storm's deluge—free, if only briefly. Then, the hotel's curse tightens its grip and darkness claims you once more.
-347  → You collapse into a restless sleep on the threshold between escape and capture, and when you awaken, the cycle has reset—leaving you with the lingering hope that one day you might truly break free.
-348 
-349 
-350 
-351 CONGRATULATIONS!
-352 You have survived the five nights at Alfredos. 
-353 But will Alfredo let you truly escape...?
-354 
-355 THE END
+
+Choice 2: 
+Standing outside the room scared, your not sure what to do.
+
+Do you whant to *Trust* Alfredo or Try to *leave*
+
+
+Trust Alfredo: 
+You trust Alfredos good intentions and wave him good bye befor you go to sleep fitfully.
+
+Try to Leave:
+"I just remembered i have something important to do tomorrow so i actually think it is best for me to go home".
+Alfredo smiles friendly and answers "I completely understand, hope you get home safe"
+After you left the building and started walking down the street you hear a weird noise near by and it frightens you.
+
+Do you still whant to *leave* or go back to the *hotel*
+
+leave:
+You choose to ignore the fear and keeps on walking. As the sound gets louder and louder you are convinced it is the sound of foot steps behind you. You start running
+You run faster but still the steps are behind you. Running in the dark of the night you missed a step and tripped. Lying face down on the sidewalk you then turn around to get up. 
+Standing over you you see a large darg figure, before have chance to react everything goes black.
+
+Hotel:
+You walk back to the hotel and lie to Alfredo about how you really do not think you will be able to get home in this storm.
+
+NIGHT 2 – BREAKFAST & CLUES
+Scene: 
+You wake up and walk down to the Dining Hall.
+Alfredo serves breakfast, mentioning the hotel’s “slowly revealed truths.” A locked door looms behind him.
+Choice 1:
+
+Ask About the Door: He deflects. Later, you hear muffled screams in the halls.
+
+Explore Alone: Find a hidden room with news clippings: “Guests Disappear Without a Trace.”
+
+NIGHT 3 – DINNER & DECEPTION
+Scene: Alfredo’s Invitation
+Alfredo insists on a candlelit dinner. His demeanor feels possessive.
+Choice 1:
+
+Accept Dinner: Notice a red smear on his wine glass. He dismisses it. Afterward, tortured screams echo nearby.
+
+Refuse and Flee: The storm traps you. You awaken bruised, back in your room.
+
+NIGHT 4 – THE MAZE
+Scene: Shifting Corridors
+The hotel warps into a labyrinth. Alfredo beckons to a “private parlor” filled with portraits of missing guests.
+Choice 1:
+
+Follow Him: He cryptically hints at the hotel’s dark past. Find a blood-smeared journal: “They are mine forever.”
+
+Search for Exits: Halls bleed. A shadowy figure drags a victim past a window. Alfredo whispers: “Stay.”
+
+NIGHT 5 – FINAL CONFRONTATION
+Scene: The Heart of Darkness
+The hotel pulses with malice. Alfredo, now unhinged, declares: “You belong here.”
+Choice 1:
+
+Confront Him: Fight to activate a hidden switch. Escape briefly—but the cycle resets.
+
+Flee Through Secret Passages: Find an “EXIT,” but Alfredo corners you. The storm swallows your screams.
+
+THE END
+You survive… but the hotel’s grip lingers. Will Alfredo ever let you go?
