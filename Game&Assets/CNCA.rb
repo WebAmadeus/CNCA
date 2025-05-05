@@ -28,9 +28,16 @@ def CNCA()
       GameOver()
     end
   end
-  # Dag 2
+  # Natt 2
   $day_counter = 2
   Sleep()
+
+  puts Typer("\nNIGHT 2 – Breakfast & Clues")
+  puts Typer(Scriptcall(60, 62))
+  puts Typer(Scriptcall(65, 66))
+  Storysplit(4,"ask","explore",67,68,72,73)
+  Scriptsplit(4, 69, 71, 74, 76)
+  
   
   # Natt 3
   $day_counter = 3

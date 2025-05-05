@@ -58,17 +58,19 @@ Tired and wet you return to the room and fall into an uneasy sleep...
 NIGHT 2 – BREAKFAST & CLUES
 Scene: 
 You wake up and walk down to the Dining Hall.
+Alfredo serves breakfast, mentioning the hotel’s old history and how it was built centuries ago as a mansion of an old ancestor of his. As he talks all you can think about is the locked door that looms behind him.
 
-Alfredo serves breakfast, mentioning the hotel’s old history and how it was built centuries ago as a mantion of an old ancestor of his. As he talks all you can think about is the door that looms behind him with a large blue lock on it.
+Alfredo serves breakfast, mentioning the hotel’s old history and how it was built centuries ago as a mantion of an old ancestor of his. As he talks all you can think about is the locked door that looms behind him.
 Choice 1:
 
 Do you whant to *ask* about the door or not mention it and *explore* alone later
 
 Ask About the Door:
-He deflects and says it´s just an old storage room. But after you have finished eating and Alfredo has left to do some chores you swear swear you hear muffled screams in from the room.
-Frightened your firt thought is too leave but theres still a storm outside. You decide too stay low and just wait out the storm.
+ He deflects and says it´s just an old storage room. But after you have finished eating and Alfredo has left to do some chores you swear swear you hear muffled screams in from the room.
+ Frightened your firt thought is too leave but theres still a storm outside. You decide too stay low and just wait out the storm.
 
-Explore Alone: 
+You decide to explore alone
+
 After you have finished eating and Alfredo has left to do some chores you sneak away to the door and swear you can hear scream coming from the door. 
 Frightened your firt thought is too leave but theres still a storm outside. You decide too stay low and just wait out the storm.
 
