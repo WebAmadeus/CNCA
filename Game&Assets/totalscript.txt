@@ -53,7 +53,7 @@ It was a late December night. You were sitting alone at the bar, nursing a drink
  Alfredo smiles kindly and replies, "Oh, that's perfectly fine. You can simply go back the way we came." You step out into the corridor, the storm still raging.
  
  The howling wind seems to urge you to stay. Are you sure you want to *leave*? or have you changed you changed your mind and want to *stay*?
- 
+
 
  Choice 3:
   (3A) Leave for Good:
@@ -98,7 +98,7 @@ Choice 5:
 You feel panic and flee to the lobby, where Alfredo is seen cooking in the stairwell.
 98 
 99 (5B) Go to Sleep: 
-100 Exhaustion overcomes you.
+100 the soft bed in the middle of the room beckons you to sleep, as you lay down exhaustion overcomes you.
 101 
 102 
 103 
