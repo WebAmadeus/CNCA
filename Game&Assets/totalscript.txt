@@ -4,7 +4,7 @@ Welcome to Cinco Noches con Alfredo!
 BACKSTORY
 On a stormy December night, you meet Alfredo, the owner of Hotel de Español, at a bar. He offers shelter from the storm. Intrigued (or desperate), you follow him.
 
-NIGHT 1 – ARRIVAL
+NIGHT 1
 You arive at the hotel and enter.
 Alfredo leaves to fetch keys for a hotelroom for you. The lobby is eerily quiet.
 
@@ -55,7 +55,7 @@ You walk back to the hotel and lie to Alfredo about how you really do not think 
 
 Tired and wet you return to the room and fall into an uneasy sleep...
 
-NIGHT 2 – BREAKFAST & CLUES
+NIGHT 2
 Scene: 
 You wake up and walk down to the Dining Hall.
 Alfredo serves breakfast, mentioning the hotel’s old history and how it was built centuries ago as a mansion of an old ancestor of his. As he talks all you can think about is the locked door that looms behind him.
@@ -76,7 +76,7 @@ Frightened your first thought is too leave but theres still a storm outside. You
 
 
 
-NIGHT 3 – DINNER & DECEPTION
+NIGHT 3
 Scene: 
 You wake up late at night 3. You walk down to the dining room and meets Alfredo who invites you to dinner later in the evening.
 Alfredo insists on a candlelit dinner. His demeanor feels possessive.
@@ -97,7 +97,7 @@ After half an hour a taxi comes to pcik you up and you jump in quickly to get ou
 You grab the door and tries to leave but it is locked. As you turn around towards Alfrado you feel your head aching and suddenly everything your black.
 
 
-NIGHT 4 – THE MAZE
+NIGHT 4
 Scene: 
 You wake up early on night 4 and instanly an ide stikes you. Maybe i could sneak in to Alfrado and try to grab the blue key.
 
@@ -153,9 +153,49 @@ You spend the day talking with Alfrado about how insane it is that the storm has
 Tomorrow:
 You spend the day talking with Alfrado about how insane it is that the storm has not ended yet and sitting on your room with your phone, just waiting for tomorrow.
 
-NIGHT 5 – FINAL CONFRONTATION
+NIGHT 5
+You wake up.
+
+om now night4:
+
+
+om waiting night 4:
+The storm has finally ended. You try to look for Alfrado to tell him you are leaving but he is no were to be found. You wait a couple of hours and then you leave. As you leave you see Alfrado cooming fram the stairs behind you. He seems to be in a hurry and is running towards you.
+
+choice 1
+do you want to run away from Alfrado or wait and say goodbye
+
+run:
+You run as quickly as you can and look back and see him chasing after you. You run out into the street waving to a car driving straight towards you. The car stomps the breaks.
+You go to the passengers side, jumps in
+"Drive, Drive! Please hurry!"
+The driver pushes down the pedal as Alfrado was just about to grad the back door of the car. You drive away realising how close you were to loosing your life.
+
+
+wait:
+You stand waiting for Alfrado but as he comes closer, still running you realise you probably made a mistake. You turn to run but its to late. He grabs you and says.
+"No, you live here now"
+And then everything goes black.
 
 
 
-THE END
-You survive… but the hotel’s grip lingers. Will Alfredo ever let you go?
+om tomorrow night 4/ om looking night 4:
+You wake up and instantly go to see if Alfrado is awake. Thankfully he is deep asleep. You walk to the door and puts in the key. The lock opens.
+As you open the door it squeks loudly. You see a short corridor and then a long staircase going down into darkness. 
+
+
+Do you whant to go down and *explore* or *turn* back.
+
+
+explore:
+You walk down the staircase to explore and even the steps make noice. As you walk down you start hearing noices, sounds like a female voice.
+"Alfrado? Is that you"
+You answer "No?"
+Insteantly, the voice answers
+"Leave!!! Leave quickly or you will end up like me! LEAVE!!!" the voice screams.
+You run back up the stair but just as you get out Alfrado grabs you, rips the key from your hand and pushes you back inside. You run up again and try pulling on the door hindge but it is locked. You hear Alfrado´s voice through the door.
+"Thanks for making it easy for me"
+
+turn:
+You close the dorr and turn around to walk away. But there behind you, towering over you, stands Alfrado. Before you have the chance to react he grabs you, rips the key from your hand, opens the door and pushes inside. You run towards the door and try pulling on the door hindge but it is locked. You hear Alfrado´s voice through the door.
+"Thanks for making it easy for me"
