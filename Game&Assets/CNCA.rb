@@ -85,12 +85,13 @@ def CNCA()
       puts Typer("\nCongratulations you survived the five nights at Alfredo.")
      puts Typer("But will alfredo really let you leave...?")
       puts Typer("\nTHE END")
-    else
-      puts Typer(Scriptcall(193,195))
-      puts Typer(Scriptcall(197,199))
-      Storysplit(10,"explore","turn",201,208,210,211)
-      GameOver
     end
+ else
+    puts Typer(Scriptcall(193,195))
+    puts Typer(Scriptcall(197,199))
+    Storysplit(10,"explore","turn",201,208,210,211)
+    GameOver
+  
   end 
 end
 
