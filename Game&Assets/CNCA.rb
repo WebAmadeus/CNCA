@@ -1,12 +1,12 @@
 $choicesmade = [] 
 $day_counter = 1  
+$lines = File.readlines("totalscript.txt")
 
 def CNCA()
   # Introduktion
   puts Typer("INTRODUCTION\nWelcome to Cinco Noches con Alfredo!\nChoose your character:")
   puts "*Carlos* or *Valentina* ** stars mark valid answers"
   Choice("carlos","valentina")
-  system("clear")
   
   puts Typer(Scriptcall(7, 8))  
   
@@ -43,100 +43,19 @@ def CNCA()
   $day_counter = 2
   Sleep()
   
-  puts Typer("\nDAY 2 – MORNING MYSTERIES")
-  puts Typer(Scriptcall(104, 112))
-  Storysplit(6, "accept", "explore",113,114,116,118)
-  
-  if $choicesmade[5] == "6A"
-    puts Typer(Scriptcall(119, 123))
-    Storysplit(7, "ask", "silent",124,126,127,129)
-    
-    if $choicesmade[6] == "7A"
-      puts Typer(Scriptcall(130, 134))
-    else
-      puts Typer(Scriptcall(136, 140))
-    end
-  else
-    puts Typer(Scriptcall(143, 149))
-    Storysplit(8, "gather", "deeper",150,152,153,155)
-    
-    if $choicesmade[7] == "8A"
-      puts Typer(Scriptcall(156, 161))
-    else
-      puts Typer(Scriptcall(163, 168))
-    end
-  end
-  
   # Natt 3
   $day_counter = 3
   Sleep()
-  
-  puts Typer("\nNIGHT 3 – THE MASK SLIPS")
-  puts Typer(Scriptcall(173, 179))
-  Storysplit(9, "accept", "refuse",180,181,182,184)
-  
-  if $choicesmade[8] == "9A"
-    puts Typer(Scriptcall(186, 190))
-    Storysplit(10, "confront", "silent",191,192,193,195)
-    
-    if $choicesmade[9] == "10A"
-      puts Typer(Scriptcall(197, 204))
-    else
-      puts Typer(Scriptcall(206, 212))
-    end
-  else
-    puts Typer(Scriptcall(215, 222))
-    puts Typer(Scriptcall(224, 228))
-  end
   
   # Natt 4
   $day_counter = 4
   Sleep()
   
-  puts Typer("\nNIGHT 4 – THE SHIFTING MAZE")
-  puts Typer(Scriptcall(233, 239))
-  Storysplit(11, "follow", "resist",240,241,242,245)
-  
-  if $choicesmade[10] == "11A"
-    puts Typer(Scriptcall(246, 251))
-    Storysplit(12, "question", "explore",252,253,254,256)
-    
-    if $choicesmade[11] == "12A"
-      puts Typer(Scriptcall(258, 264))
-    else
-      puts Typer(Scriptcall(266, 271))
-    end
-  else
-    puts Typer(Scriptcall(274, 283))
-  end
-  
   # Natt 5
   $day_counter = 5
   Sleep()
   
-  puts Typer("\nNIGHT 5 – THE FINAL STRUGGLE")
-  puts Typer(Scriptcall(289, 295))
-  Storysplit(13, "confront", "escape",296,297,298,301)
   
-  if $choicesmade[12] == "13A"
-    puts Typer(Scriptcall(302, 309))
-    Storysplit(14, "activate", "fail",311,315,316,319)
-    
-    if $choicesmade[13] == "14B"
-      GameOver()
-      return
-    end
-  else
-    puts Typer(Scriptcall(322, 329))
-    Storysplit(15, "rush", "crouch",330,331,332,334)
-    
-    if $choicesmade[14] == "15A"
-      puts Typer(Scriptcall(336, 341))
-      GameOver()
-      return
-    else
-      puts Typer(Scriptcall(343, 350))
-    end
   end
   
   puts Typer("\nCongratulations you survived the five nights at Alfredo.")
@@ -145,10 +64,8 @@ def CNCA()
 end
 
 def Scriptcall(start_line, end_line)
-  lines = File.readlines("totalscript.txt")
-
-  # jag subtraherar 1 från "start_line" för att få mer användarvänlig kod. Alltså så att index skall stämma överens med siffran i min totalscript txt
-  paragraph = lines[(start_line - 1)..(end_line - 1)]
+ # jag subtraherar 1 från "start_line" för att få mer användarvänlig kod. Alltså så att index skall stämma överens med siffran i min totalscript txt
+  paragraph = $lines[(start_line - 1)..(end_line - 1)]
   #.join konkatinerar strängarna i paragraph
   return paragraph.join
 end
@@ -175,7 +92,6 @@ def Typer(text)
     $stdout.flush #jag frågade chatgpt om hur man kan få textan att se ut att bli skriven i terminalen och den sa att denna skulle vara med för att den skulle komma en bokstav i taget, annars kan det klumpas ihop av ruby för effektivitet
     i += 1
   end
-  return ""
 end
 
 def Storysplit(splitpoint, choice1, choice2, start_line1, end_line1, start_line2, end_line2)
