@@ -74,11 +74,12 @@ You decide to explore alone
 After you have finished eating and Alfredo has left to do some chores you sneak away to the door and swear you can hear scream coming from the door. 
 Frightened your first thought is too leave but theres still a storm outside. You decide too stay low and just wait out the storm.
 
+The raging storm continues and you realize there is no way you can get home in this storm, avoiding alfredo throughout the day you eventually return to your room, something feels different and you realize that the blank walls of the previos night have been filled with famous paintings and artworks. at the same time something feels very wrong...
 
 
 NIGHT 3 – DINNER & DECEPTION
 Scene: 
-You wake up late at night 3. You walk down to the dining room and meets Alfredo who invites you to dinner later in the evening.
+You wake up on night 3. You walk down to the dining room and meets Alfredo who invites you to dinner later in the evening.
 Alfredo insists on a candlelit dinner. His demeanor feels possessive.
 
 Choice 1:
@@ -86,20 +87,25 @@ Choice 1:
 Do you want to *accept* Alfredo’s invitation or *refuse* and try to leave
 
 Accept Dinner: 
-You accept the dinner and spends the day sitting around in yur room waiting for the dinner. During teh dinner you notice a blue key in Alfrados pocket and think "maybe that leads to the creepy door".
+You accept the dinner and spend the day sitting around in your room waiting for the dinner. 
+
+During the dinner you notice a blue key in Alfrados pocket and think "maybe that leads to the creepy door".
 
 Refuse and leave: 
-You thank him for the invitation but say that you really should get going now. He looks at you and smiles cold.
+You thank him for the invitation but say that you really should get going now.
+
+ He looks at you and smiles cold.
 "Yeah, i understand. Too bad though, would have been a nice dinner"
 You leave and try to hurry. When you have made it to the other side of the street from the hotel you pick up your phone to try and call a taxi. It is still stormy outside but hopefully someone will still be able to come get you.
 After half an hour a taxi comes to pcik you up and you jump in quickly to get out of the storm. When you have closed the door to look to your side your see that is Alfrado driving the car!!! 
 "You really thought you could leave?"
 You grab the door and tries to leave but it is locked. As you turn around towards Alfrado you feel your head aching and suddenly everything your black.
 
+After a filling meal you thank alfredo and return to your room, the paintings now twisting into horrific bloddy shapes you can hear what sounds like wailing coming from somewhere in the hotel
 
 NIGHT 4 – THE MAZE
 Scene: 
-You wake up early on night 4 and instanly an ide stikes you. Maybe i could sneak in to Alfrado and try to grab the blue key.
+You wake up early on night 4 and instanly an idea strikes you. Maybe i could sneak in to Alfrado and try to grab the blue key.
 
 choice 1
 
@@ -118,7 +124,7 @@ He is staring right at you. His eyes tell you everything...
 You now it is over. Before you have time to try and run everything suddenly goes black.
 
 Sleep:
-You try to go back to sleep but you can not stop thinking about what might be hidden behind that door so you decide to try and steal the keys any ways.
+You try to go back to sleep but you can not stop thinking about what might be hidden behind that door so you decide to try and steal the keys anyways.
 
 if 1B:
 You walk as quietly as possible towards the keys. You can literally feel his breath on your hand as you bend down to pick up the keys. You leave quietly and go back to your room.
@@ -131,16 +137,16 @@ You now it is over. Before you have time to try and run everything suddenly goes
 
 
 choice 2:
-While in your room you hide the keys under your pillow tomporarily while you think if you whant to go for the door now or hope Alfrado does not notice his keys missing and instead go look tomorrow.
+While in your room you hide the keys under your pillow temporarily while you think if you whant to go for the door now or hope Alfredo does not notice his keys missing and instead go look tomorrow.
 
-Do you whant to check the door *now* or wait for *tomorrow*
+Do you want to check the door *now* or wait for *tomorrow*
 
 now:
 You take the keys and walk to the door. You put the keys in the door and NO!! it is not the right keys!!! You hurry back and leave them as you took them without getting noticed.
 You were so curious about what was behind the door, what to do now?
 
 coice 3:
-do you whant to go *looking* for another key or just sit around *waiting* for tomorrow hoping the storm will have ended.
+do you want to go *looking* for another key or just sit around *waiting* for tomorrow hoping the storm will have ended.
 
 looking:
 You spend the day walking around casually talking with Alfrado when you see him. But in reality you are just looking for another key.
@@ -152,6 +158,8 @@ You spend the day talking with Alfrado about how insane it is that the storm has
 
 Tomorrow:
 You spend the day talking with Alfrado about how insane it is that the storm has not ended yet and sitting on your room with your phone, just waiting for tomorrow.
+
+Going to sleep you are excited about tomorrow
 
 NIGHT 5 – FINAL CONFRONTATION
 
