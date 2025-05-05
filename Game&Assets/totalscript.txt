@@ -94,7 +94,7 @@ During the dinner you notice a blue key in Alfrados pocket and think "maybe that
 Refuse and leave: 
 You thank him for the invitation but say that you really should get going now.
 
- He looks at you and smiles cold.
+He looks at you and smiles cold.
 "Yeah, i understand. Too bad though, would have been a nice dinner"
 You leave and try to hurry. When you have made it to the other side of the street from the hotel you pick up your phone to try and call a taxi. It is still stormy outside but hopefully someone will still be able to come get you.
 After half an hour a taxi comes to pcik you up and you jump in quickly to get out of the storm. When you have closed the door to look to your side your see that is Alfrado driving the car!!! 
@@ -159,9 +159,9 @@ You spend the day talking with Alfrado about how insane it is that the storm has
 Tomorrow:
 You spend the day talking with Alfrado about how insane it is that the storm has not ended yet and sitting on your room with your phone, just waiting for tomorrow.
 
-Going to sleep you are excited about tomorrow
+You go to sleep you are excited about tomorrow
 
-Going to sleep you are excited about tomorrow
+
 
 NIGHT 5
 You wake up.
@@ -194,7 +194,7 @@ You wake up and instantly go to see if Alfrado is awake. Thankfully he is deep a
 As you open the door it squeks loudly. You see a short corridor and then a long staircase going down into darkness. 
 
 
-Do you whant to go down and *explore* or *turn* back.
+Do you want to go down and *explore* or *turn* back.
 
 
 explore:

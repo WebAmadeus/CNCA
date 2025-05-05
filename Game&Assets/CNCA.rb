@@ -46,7 +46,7 @@ def CNCA()
   puts Typer(Scriptcall(87, 88))
   Storysplit(5,"accept","refuse",90,91,95,96)
   if $choicesmade[4] == "5B"
-    puts Typer(Scriptcall(97,102))
+    puts Typer(Scriptcall(97,103))
     GameOver()
   end
   puts Typer(Scriptcall(104, 105))
@@ -64,6 +64,7 @@ def CNCA()
     puts Typer(Scriptcall(121, 125))
     GameOver()
   end
+  puts Typer(Scriptcall(140, 143))
   Storysplit(7, "now", "tomorrow", 145, 147, 160, 161)
   if $choicesmade[6] == "7A"
     Storysplit(8,"looking","waiting",152,154,156,157)
@@ -72,13 +73,25 @@ def CNCA()
   # Natt 5
   $day_counter = 5
   Sleep()
-  
-  
-  
-  
-  puts Typer("\nCongratulations you survived the five nights at Alfredo.")
-  puts Typer("But will alfredo really let you leave...?")
-  puts Typer("\nTHE END")
+  puts Typer("\nNIGHT 5")
+  puts Typer(Scriptcall(167, 168))
+  if $choicesmade[6] == "7A"
+    if $choicesmade[7] == "8B"
+      puts Typer(Scriptcall(173, 174))
+      Storysplit(9,"run","wait",179,182,186,187)
+      if $choicesmade[8] == "9B"
+        GameOver()
+      end
+      puts Typer("\nCongratulations you survived the five nights at Alfredo.")
+     puts Typer("But will alfredo really let you leave...?")
+      puts Typer("\nTHE END")
+    else
+      puts Typer(Scriptcall(193,195))
+      puts Typer(Scriptcall(197,199))
+      Storysplit(10,"explore","turn",201,208,210,211)
+      GameOver
+    end
+  end 
 end
 
 def Scriptcall(start_line, end_line)
@@ -106,7 +119,7 @@ def Typer(text)
   i = 0
   while i < text.length
     print text[i]
-    sleep(0.00) #justerar hastigheten på texten som skrivs ut
+    sleep(0.01) #justerar hastigheten på texten som skrivs ut
     $stdout.flush #jag frågade chatgpt om hur man kan få textan att se ut att bli skriven i terminalen och den sa att denna skulle vara med för att den skulle komma en bokstav i taget, annars kan det klumpas ihop av ruby för effektivitet
     i += 1
   end
