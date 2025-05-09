@@ -5,7 +5,7 @@ $lines = File.readlines("totalscript.txt")
 def CNCA()
   # Introduktion
   puts Typer("INTRODUCTION\nWelcome to Cinco Noches con Alfredo!\nChoose your character:")
-  puts "*Carlos* or *Valentina* ** stars mark valid answers"
+  puts "*Carlos* or *Valentina* stars mark valid answers"
   Choice("carlos","valentina")
   
   puts Typer(Scriptcall(5, 6))  
@@ -110,7 +110,7 @@ def Choice(choice1, choice2)
   elsif input.include?(choice2.downcase)
     chosen = 0
   else
-    puts "Bad choice, try again."
+    puts "Bad choice, try again.  Remember, stars mark valid answers *x*"
     return Choice(choice1, choice2) #ber dem att svara på frågan igen
   end
   return chosen
